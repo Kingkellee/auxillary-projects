@@ -253,3 +253,5 @@ kmaSGj362OnCCNAAAACWRhcmVARGFyZQE=
 ```
 ssh -i auxillarypro.pem new_user@ubutu_public_ipv4_address
 ```
+
+https://raw.githubusercontent.com/Kingkellee/auxillary-projects/master/access.mp4
